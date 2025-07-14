@@ -10,8 +10,15 @@ This Python script scrapes a Reddit user's posts and comments and builds a basic
    ```bash
    python -r requirements.txt
    ```
-3. Run the code
+
+3. Gemini API Key
+   You can get your api key from https://aistudio.google.com/apikey
+5. Run the code
    ```bash
    python reddit_persona.py
    ```
 
+
+
+# Note 
+This uses the reddit public api so no specific api key is needed. It is also limited to 100 comments per user and the analysis is a simple LLM based one. 
