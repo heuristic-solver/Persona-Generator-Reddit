@@ -21,4 +21,6 @@ This Python script scrapes a Reddit user's posts and comments and builds a basic
 
 
 # Note 
-This uses the reddit public api so no specific api key is needed. It is also limited to 100 comments per user and the analysis is a simple LLM based one. 
+- This uses the reddit public api so no specific api key is needed. It is also limited to 100 comments per user and the analysis is a simple LLM based one. 
+- If you experience any dependancy issue (Example: Numpy version issues) create a venv 
+
