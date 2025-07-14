@@ -1,2 +1,4 @@
 # Persona-Generator-Reddit
-An LLM based Persona Generator based on a user's latest comments
+This Python script scrapes a Reddit user's posts and comments and builds a basic "persona profile" showing things like interests and their most active time.
+
+# Instructions 
